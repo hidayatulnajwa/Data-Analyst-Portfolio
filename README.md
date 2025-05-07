@@ -6,7 +6,7 @@
 - **Goal**: Analyze and visualize sales and profit trends by region, category, sub-category, and segment  
 - **Skills**: SQL queries, Excel dashboards, KPI tracking, loss analysis  
 
-See on Excel:[Dashboard](./sales-dashboard-excel)
+See on Excel:[Dashboard](https://github.com/hidayatulnajwa/Data-Analyst-Portfolio/blob/a83f7e025b199caf8cc689ffd4198463a6bd5a81/Excel%20-%20Sales%20and%20Profit%20Performance%20Dasboard.xlsx)
 
 Review the Data Cleaning SQL Script: [HERE](./sales-dashboard-excel)
 
