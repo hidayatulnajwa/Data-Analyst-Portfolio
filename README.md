@@ -21,9 +21,10 @@
 
 - Retail Supermarket Overview Dashboards (without KPI):<br />
   https://public.tableau.com/shared/579W7YZYB?:display_count=n&:origin=viz_share_link<br />
-  ![Sample Superstore Dashboard](visuals/RetailSupermarketOverviewDashboard.png) <br />
+  ![Retail Supermarket Overview Dashboard](visuals/RetailSupermarketOverviewDashboard.png) <br />
 - Superstore Dashboard:<br />
-  https://public.tableau.com/views/Lab1_17136169330840/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  https://public.tableau.com/views/Lab1_17136169330840/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link<br />
+  ![Superstore Dashboard](visuals/SuperstoreDashboard.png)
 
 
 
