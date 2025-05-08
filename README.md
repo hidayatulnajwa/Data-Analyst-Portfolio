@@ -10,6 +10,11 @@
 
 ![Sample Superstore Dashboard](visuals/SampleSuperstoreDashboard.png) <br />
 
+### SQL
+
+- Layoffs Dataset (Data cleaning): **[HERE](SQL_Data_Cleaning_world_layoffs.sql)** <br /> 
+- Layoffs Dataset (Data exploration): **[HERE](SQL_Data_Exploratory_world_layoffs.sql)** <br />
+  
 ### Tableau 
 
 *Click the hyperlink to access the Tableau Dashboards on Tableau Public* <br />
