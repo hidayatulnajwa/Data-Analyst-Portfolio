@@ -12,6 +12,8 @@
 
 ### SQL
 
+- Pakistan's E-Commerce Dataset (Data exploration): **[HERE](SQL_Data_Exploratory_Pakistanec.sql)** <br />
+- Pakistan's E-Commerce Dataset (Data Cleaning): **[HERE](SQL_Data_Cleaning_Pakistanec.sql)** <br />
 - Layoffs Dataset (Data cleaning): **[HERE](SQL_Data_Cleaning_world_layoffs.sql)** <br /> 
 - Layoffs Dataset (Data exploration): **[HERE](SQL_Data_Exploratory_world_layoffs.sql)** <br />
   
