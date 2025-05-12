@@ -145,6 +145,19 @@ LIMIT 500;
 SELECT *
 FROM pakistanec_staging;
 
+-- Delete rows where BI_status is null
+DELETE 
+FROM pakistanec_staging
+WHERE BI_Status IS NULL;
+
+SELECT *
+FROM pakistanec_staging;
+
+-- Change Null to Unknown for category_name
+UPDATE pakistanec_staging
+SET category_name  = 'Unknown'
+WHERE category_name  IS NULL;
+
 -- Step 6: Drop Unnecessary Columns
 
 ALTER TABLE pakistanec_staging
