@@ -1,5 +1,5 @@
 # Portfolio Projects
-## Below is a selection of my projects in SQL, Excel, and Tableau:
+## Below is a selection of my projects in SQL, Excel, Power BI and Tableau:
 
 ### (SQL + Power BI) Pakistan E-commerce Q3 Dashboard
 
