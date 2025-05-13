@@ -1,5 +1,4 @@
 -- Exploratory Data Analysis (EDA)
--- Purpose: To explore the cleaned ECommerce dataset and extract meaningful business insights.
 
 -- Basic Info
 -- Total number of rows
@@ -35,14 +34,6 @@ SELECT
   MAX(created_at) AS last_order_date
 FROM pakistanec_cleaned;
 
--- Orders per year
-SELECT 
-  YEAR(created_at) AS year, 
-  COUNT(*) AS total_orders
-FROM pakistanec_cleaned
-GROUP BY year
-ORDER BY year;
-
 -- Monthly order trend
 SELECT 
   DATE_FORMAT(created_at, '%Y-%m') AS month, 
@@ -51,35 +42,6 @@ SELECT
 FROM pakistanec_cleaned
 GROUP BY month
 ORDER BY month;
-
--- Payment Method Insights
--- Count and percentage of each payment method
-SELECT 
-  payment_method,
-  COUNT(*) AS total_orders,
-  ROUND(COUNT(*) * 100.0 / (SELECT COUNT(*) FROM pakistanec_cleaned), 2) AS percentage
-FROM pakistanec_cleaned
-GROUP BY payment_method
-ORDER BY total_orders DESC;
-
--- Top Products and Categories
--- Top 10 most sold items by quantity
-SELECT 
-  item_id,
-  SUM(qty_ordered) AS total_qty
-FROM pakistanec_cleaned
-GROUP BY item_id
-ORDER BY total_qty DESC
-LIMIT 10;
-
--- Top categories by total revenue
-SELECT 
-  category_name,
-  SUM(grand_total) AS revenue
-FROM pakistanec_cleaned
-GROUP BY category_name
-ORDER BY revenue DESC
-LIMIT 10;
 
 -- Customer Analysis
 -- Number of unique customers
@@ -95,17 +57,71 @@ SELECT
   COUNT(*) AS total_orders
 FROM pakistanec_cleaned
 GROUP BY customer_type;
+-- Sales and Status by month
+SELECT 
+  MONTH(Working_Date) AS Month,
+  Status,
+  SUM(grand_total) AS Total_Revenue
+FROM pakistanec_cleaned
+GROUP BY Month, Status
+ORDER BY Month;
 
--- Sales Commission Analysis
--- Total commission by sales code
+-- Sales and Status by Category
+SELECT 
+  category_name AS Category,
+  BI_Status,
+  SUM(grand_total) AS Total_Revenue
+FROM pakistanec_cleaned
+GROUP BY category_name, BI_Status
+ORDER BY Total_Revenue DESC;
+
+-- Sales and Status Total Amount
+SELECT 
+  Status,
+  SUM(grand_total) AS Total_Amount
+FROM pakistanec_cleaned
+GROUP BY Status;
+
+-- Monthly Revenue Trend
+SELECT 
+  DATE_FORMAT(Working_Date, '%Y-%m') AS Month_Year,
+  SUM(grand_total) AS Monthly_Revenue
+FROM pakistanec_cleaned
+WHERE BI_Status = 'NET'
+GROUP BY Month_Year
+ORDER BY Month_Year;
+
+-- Quantity By Payment Method
+SELECT 
+  payment_method,
+  SUM(qty_ordered) AS Total_Quantity
+FROM pakistanec_cleaned
+GROUP BY payment_method
+ORDER BY Total_Quantity DESC;
+
+-- Quantity by Category
+SELECT 
+  category_name AS Category,
+  SUM(qty_ordered) AS Total_Quantity
+FROM pakistanec_cleaned
+GROUP BY category_name
+ORDER BY Total_Quantity DESC;
+
+-- Reveneue by sales commisson code
 SELECT 
   sales_commission_code,
-  COUNT(*) AS order_count,
-  SUM(grand_total) AS total_sales
+  SUM(grand_total) AS Total_Revenue
 FROM pakistanec_cleaned
 GROUP BY sales_commission_code
-ORDER BY total_sales DESC
-LIMIT 10;
+ORDER BY Total_Revenue DESC;
+
+-- SKU by sales
+SELECT 
+  sku,
+  SUM(grand_total) AS Total_Revenue
+FROM pakistanec_cleaned
+GROUP BY sku
+ORDER BY Total_Revenue DESC;
 
 -- Final null value check
 SELECT 
