@@ -3,10 +3,10 @@
 
 ### (SQL + Power BI) Pakistan E-commerce Q3 Dashboard
 
-*See on Excel:* **[Dashboard](https://app.powerbi.com/groups/me/reports/17e66c59-ecce-44e5-82b7-708a5a6e4efb?ctid=0ad0fbf8-69ca-4e5e-afad-cd70424ac626&pbi_source=linkShare)** <br /> 
+*Seen on Power BI Public Service:* **[Dashboard](https://app.powerbi.com/groups/me/reports/17e66c59-ecce-44e5-82b7-708a5a6e4efb?ctid=0ad0fbf8-69ca-4e5e-afad-cd70424ac626&pbi_source=linkShare)** <br /> 
 *Review the Data Cleaning SQL Script:* **[HERE](https://github.com/hidayatulnajwa/Data-Analyst-Portfolio/blob/481d323b85ea8b6d0176fc7e3ca0bdb968c95e12/SQL%20-%20Data%20Cleaning%20samplesuperstore.sql)** <br /> 
 
-![Sample Superstore Dashboard](visuals/SampleSuperstoreDashboard.png) <br />
+![Pakistan E-commerce Q3 Dashboard](visuals/PowerBI_Pakistan_Ecommerce_Dashboard.png) <br />
 
 
 ### (Excel + SQL) Sample Superstore Sales and Profit Performance Dashboard
