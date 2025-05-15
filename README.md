@@ -30,7 +30,7 @@
 
 *Click the hyperlink to access the Tableau Dashboards on Tableau Public* <br />
 
-- Retail Supermarket Overview Dashboards (without KPI):<br />
+- Retail Supermarket Overview (without KPI):<br />
   https://public.tableau.com/shared/579W7YZYB?:display_count=n&:origin=viz_share_link<br />
   ![Retail Supermarket Overview Dashboard](visuals/RetailSupermarketOverviewDashboard.png) <br />
 - Superstore Dashboard:<br />
