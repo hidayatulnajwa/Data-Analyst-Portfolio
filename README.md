@@ -12,6 +12,58 @@ Now, I’m actively looking for opportunities in data analytics, where I can con
 
 ### (SQL + Power BI) Tihana Shop Sales Dashboard (Sept-Dec 2020)
 
+In this personal project, I revisited data from my own small retail business (Tihana Shop) during its peak months in 2020. I used my current knowledge in Power BI and SQL to clean, analyze, and visualize the data—uncovering sales trends, customer behavior, and regional insights. It was a meaningful way to apply what I’ve learned to something real and personal.
+
+Key Results:
+	•	Total Profit: RM5,336
+	•	Total Sales: RM11,391
+	•	Average Order Value (AOV): RM55.30
+	•	Total Quantity Sold: 592 units
+	•	Total Customers: 240
+
+Overview Dashboard
+
+1. Monthly Revenue Trend
+	•	Observed revenue spikes in mid-November and December, correlating with marketing efforts such as Facebook ads and product giveaways.
+
+2. Top 5 States by Sales & Quantity
+	•	Perak led in both sales (RM2,245 or 53.94%) and quantity sold (124 units, 53.45%), indicating strong customer presence and engagement in the region.
+
+3. Top Customers by Sales
+	•	Khairunisa ranked as the top customer, contributing RM214 in total sales.
+
+Sales Analysis
+
+1. Geographic Performance
+	•	Perak stood out with the highest sales (RM2,245) and profit (RM1,217).
+	•	Sales were concentrated in central and northern states like Selangor and Kedah.
+
+2. Daily Sales Trends
+	•	Notable peaks in daily revenue:
+	•	Sept 21: RM200
+	•	Oct 27: RM222
+	•	Nov 17: RM267
+	•	Dec 3: RM345
+
+3. Profitability by State
+	•	States with moderate sales (e.g. Melaka, KL) showed lower profit margins—indicating potential areas to optimize pricing or reduce costs.
+
+Customer Insights
+
+1. Customer Profitability & AOV
+	•	Top buyers consistently spent RM50–RM70 per order, contributing significantly to profits.
+	•	The average order value remained stable, indicating effective pricing and customer trust.
+
+2. New vs Returning Customers
+	•	85.87% of sales (RM9,781) came from new customers, while returning customers contributed 14.13% (RM1,610).
+	•	Indicates successful reach but also an opportunity to build retention strategies.
+
+3. Monthly New Customer Growth
+	•	Customer base grew steadily, with surges in October and December driven by Facebook marketing and giveaways.
+
+4. Customer Distribution by State
+	•	Perak (50 customers) and Selangor (24) were the top contributors—aligning with high sales and strong engagement in those regions
+
 *Seen on Power BI Public Service:* **[Dashboard](https://app.powerbi.com/groups/me/reports/34dedb97-9bc9-4d0d-b2c1-75bf97d41a3b?ctid=0ad0fbf8-69ca-4e5e-afad-cd70424ac626&pbi_source=linkShare)** <br /> 
 *Review the Data Cleaning SQL Script:* **[HERE](SQL_Data_Cleaning_Tihana.sql)** <br /> 
 
