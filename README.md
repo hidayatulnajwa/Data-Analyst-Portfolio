@@ -12,11 +12,12 @@ Now, I’m actively looking for opportunities in data analytics, where I can con
 
 ### (SQL + Power BI) Tihana Shop Sales Dashboard (Sept-Dec 2020)
 
-*Seen on Power BI Public Service:* **[Dashboard](https://app.powerbi.com/groups/me/reports/17e66c59-ecce-44e5-82b7-708a5a6e4efb?ctid=0ad0fbf8-69ca-4e5e-afad-cd70424ac626&pbi_source=linkShare)** <br /> 
-*Review the Data Cleaning SQL Script:* **[HERE](SQL_Data_Cleaning_Pakistanec.sql)** <br /> 
+*Seen on Power BI Public Service:* **[Dashboard](https://app.powerbi.com/groups/me/reports/34dedb97-9bc9-4d0d-b2c1-75bf97d41a3b?ctid=0ad0fbf8-69ca-4e5e-afad-cd70424ac626&pbi_source=linkShare)** <br /> 
+*Review the Data Cleaning SQL Script:* **[HERE](SQL_Data_Cleaning_Tihana.sql)** <br /> 
 
-
-
+![Tihana Overview Dashboard](visuals/Tihana_Overview.png) <br />
+![Tihana Sales Analysis Dashboard](visuals/Tihana_Sales_Analysis.png) <br />
+![Tihana Customer Insights Dashboard](visuals/Tihana_Customer_Insights.png) <br />
 
 ### (SQL + Power BI) E-commerce Q3 Dashboard
 
