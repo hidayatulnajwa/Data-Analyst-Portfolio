@@ -15,43 +15,43 @@ Now, I’m actively looking for opportunities in data analytics, where I can con
 In this personal project, I revisited data from my own small retail business (Tihana Shop) during its peak months in 2020. I used my current knowledge in Power BI and SQL to clean, analyze, and visualize the data—uncovering sales trends, customer behavior, and regional insights. It was a meaningful way to apply what I’ve learned to something real and personal.
 
 Key Metrics <br/>
-	•	Total Profit: RM5,336
-	•	Total Sales: RM11,391
-	•	Average Order Value (AOV): RM55.30
-	•	Total Quantity Sold: 592 units
-	•	Total Customers: 240
+	•	Total Profit: RM5,336<br/>
+	•	Total Sales: RM11,391<br/>
+	•	Average Order Value (AOV): RM55.30<br/>
+	•	Total Quantity Sold: 592 units<br/>
+	•	Total Customers: 240<br/>
 
 Overview Dashboard
 
-1. Monthly Revenue Trend
+1. Monthly Revenue Trend<br/>
 	•	Observed revenue spikes in mid-November and December, correlating with marketing efforts such as Facebook ads and product giveaways.
 
-2. Top 5 States by Sales & Quantity
+2. Top 5 States by Sales & Quantity<br/>
 	•	Perak led in both sales (RM2,245 or 53.94%) and quantity sold (124 units, 53.45%), indicating strong customer presence and engagement in the region.
 
-3. Top Customers by Sales
+3. Top Customers by Sales<br/>
 	•	Khairunisa ranked as the top customer, contributing RM214 in total sales.
 
 Sales Analysis
 
-1. Geographic Performance
-	•	Perak stood out with the highest sales (RM2,245) and profit (RM1,217).
+1. Geographic Performance<br/>
+	•	Perak stood out with the highest sales (RM2,245) and profit (RM1,217).<br/>
 	•	Sales were concentrated in central and northern states like Selangor and Kedah.
 
-2. Daily Sales Trends
-	•	Notable peaks in daily revenue:
-	•	Sept 21: RM200
-	•	Oct 27: RM222
-	•	Nov 17: RM267
-	•	Dec 3: RM345
+2. Daily Sales Trends<br/>
+	•	Notable peaks in daily revenue:<br/>
+	•	Sept 21: RM200<br/>
+	•	Oct 27: RM222<br/>
+	•	Nov 17: RM267<br/>
+	•	Dec 3: RM345<br/>
 
-3. Profitability by State
-	•	States with moderate sales (e.g. Melaka, KL) showed lower profit margins—indicating potential areas to optimize pricing or reduce costs.
+3. Profitability by State<br/>
+	•	States with moderate sales (e.g. Melaka, KL) showed lower profit margins—indicating potential areas to optimize pricing or reduce costs.<br/>
 
 Customer Insights
 
-1. Customer Profitability & AOV
-	•	Top buyers consistently spent RM50–RM70 per order, contributing significantly to profits.
+1. Customer Profitability & AOV<br/>
+	•	Top buyers consistently spent RM50–RM70 per order, contributing significantly to profits.<br/>
 	•	The average order value remained stable, indicating effective pricing and customer trust.
 
 2. New vs Returning Customers
