@@ -14,7 +14,7 @@ Now, I’m actively looking for opportunities in data analytics, where I can con
 
 In this personal project, I revisited data from my own small retail business (Tihana Shop) during its peak months in 2020. I used my current knowledge in Power BI and SQL to clean, analyze, and visualize the data—uncovering sales trends, customer behavior, and regional insights. It was a meaningful way to apply what I’ve learned to something real and personal.
 
-Key Results:
+Key Metrics <br/>
 	•	Total Profit: RM5,336
 	•	Total Sales: RM11,391
 	•	Average Order Value (AOV): RM55.30
