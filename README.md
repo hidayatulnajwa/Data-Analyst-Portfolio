@@ -54,14 +54,14 @@ Customer Insights
 	•	Top buyers consistently spent RM50–RM70 per order, contributing significantly to profits.<br/>
 	•	The average order value remained stable, indicating effective pricing and customer trust.
 
-2. New vs Returning Customers
+2. New vs Returning Customers<br/>
 	•	85.87% of sales (RM9,781) came from new customers, while returning customers contributed 14.13% (RM1,610).
 	•	Indicates successful reach but also an opportunity to build retention strategies.
 
-3. Monthly New Customer Growth
+3. Monthly New Customer Growth<br/>
 	•	Customer base grew steadily, with surges in October and December driven by Facebook marketing and giveaways.
 
-4. Customer Distribution by State
+4. Customer Distribution by State<br/>
 	•	Perak (50 customers) and Selangor (24) were the top contributors—aligning with high sales and strong engagement in those regions
 
 *Seen on Power BI Public Service:* **[Dashboard](https://app.powerbi.com/groups/me/reports/34dedb97-9bc9-4d0d-b2c1-75bf97d41a3b?ctid=0ad0fbf8-69ca-4e5e-afad-cd70424ac626&pbi_source=linkShare)** <br /> 
