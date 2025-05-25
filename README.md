@@ -55,7 +55,7 @@ Customer Insights
 	•	The average order value remained stable, indicating effective pricing and customer trust.
 
 2. New vs Returning Customers<br/>
-	•	85.87% of sales (RM9,781) came from new customers, while returning customers contributed 14.13% (RM1,610).
+	•	85.87% of sales (RM9,781) came from new customers, while returning customers contributed 14.13% (RM1,610).<br/>
 	•	Indicates successful reach but also an opportunity to build retention strategies.
 
 3. Monthly New Customer Growth<br/>
